@@ -1,0 +1,10 @@
+**AED
+**AppTree
+**.vs
+**x64
+**Debug
+*.sln
+*.vcxproj
+*.filters
+*.user
+*.exe
